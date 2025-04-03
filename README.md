@@ -266,5 +266,5 @@ GROUP BY category;
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
